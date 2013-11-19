@@ -33,6 +33,7 @@ def reverse(array_dict, swap_locs):
     
 first_line = True
 
+#use this instead of sys.stdin if testing
 input_data = ['3 1 1', '1 2 3']
 
 for line in sys.stdin:
